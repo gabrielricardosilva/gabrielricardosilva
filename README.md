@@ -1,4 +1,4 @@
-### Olá! Eu sou Gabriel Ricardo 2 👋
+### Olá! Eu sou Gabriel Ricardo 👋
 
 - 🌱 Estudando MySQL, TypeScript
 - ⚡ Fun fact: "With great power comes great responsibility" (Uncle Ben)
