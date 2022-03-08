@@ -5,7 +5,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-ricardo-silva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-ricardo-silva/" height="30" width="40" /></a>
 </p>
 
-<img align="right" alt="jpg" width="250px" src="<img align="right" alt="jpg" width="250px" src="https://c.tenor.com/_oHwStY2Y9UAAAAM/cute-pet.gif" />" />
+<img align="right" alt="jpg" width="250px" src="https://c.tenor.com/_oHwStY2Y9UAAAAM/cute-pet.gif" />" />
 
 
 <h3 align="left">Languages and Tools:</h3>
