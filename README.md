@@ -14,3 +14,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielricardosilva&show_icons=true&locale=en&layout=compact" alt="gabrielricardosilva" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielricardosilva&show_icons=true&locale=en" alt="gabrielricardosilva" /></p>
+
+![Snake Animation](https://github.com/gabrielricardosilva)
