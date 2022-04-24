@@ -15,4 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielricardosilva&show_icons=true&locale=en" alt="gabrielricardosilva" /></p>
 
-![Snake Animation](https://github.com/gabrielricardosilva)
+![Snake animation](https://github.com/gabrielricardosilva/gabrielricardosilva/blob/output/github-contribution-grid-snake.svg)
